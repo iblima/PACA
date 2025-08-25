@@ -4,8 +4,9 @@
 
 ### Vídeos e Entrevistas Exibidos
 
-1. *Documentário **Intercâmbio Brasil Mali*** [https://globoplay.globo.com/v/13700349/?s=48m56s][Parte 1]
-
+1. *Documentário **Intercâmbio Brasil Mali***
+1.1. **Parte 1 - Programa exibido em 22/06/2025 ** [Link](https://globoplay.globo.com/v/13716593/?s=15m40s)
+1.2. **Parte 2 - Programa exibido em 29/06/2025 ** [Link](https://globoplay.globo.com/v/13718212/?s=32m38s)
 2.
 
 3. *Cientista brasileira ganha 'Nobel' da agricultura por pesquisa em biológicos* [Link] (https://globorural.globo.com/inovacao/noticia/2025/05/cientista-brasileira-ganha-nobel-da-agricultura-por-pesquisa-em-biologicos.ghtml)
