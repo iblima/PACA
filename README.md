@@ -16,3 +16,6 @@
 ## 3 Trimestre
 
 * [PACA-Aula-05.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-05.pdf)
+
+* [PACA-Aula-10.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-10-Texto.pdf)
+			
