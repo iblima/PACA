@@ -21,6 +21,6 @@
 
 - PACA-AULA-11 - Leitura
 
--- [Valor da produção da pecuária e aquicultura chega a R$ 122,4 bilhões em 2023](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41352-valor-da-producao-da-pecuaria-e-aquicultura-chega-a-r-122-4-bilhoes-em-2023)
+  - [Valor da produção da pecuária e aquicultura chega a R$ 122,4 bilhões em 2023](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41352-valor-da-producao-da-pecuaria-e-aquicultura-chega-a-r-122-4-bilhoes-em-2023)
 
--- [Estimativa de setembro aponta safra recorde de 341,9 milhões de toneladas em 2025](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44766-estimativa-de-setembro-aponta-safra-recorde-de-341-9-milhoes-de-toneladas-em-2025)
+  - [Estimativa de setembro aponta safra recorde de 341,9 milhões de toneladas em 2025](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44766-estimativa-de-setembro-aponta-safra-recorde-de-341-9-milhoes-de-toneladas-em-2025)
