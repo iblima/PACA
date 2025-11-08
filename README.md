@@ -17,6 +17,8 @@
 
 * [PACA-Aula-05.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-05.pdf)
 
+* [PACA-Aula-07 - Documentário Brasil Orgânico](https://www.youtube.com/watch?v=CT3YEbQ9GNE)
+
 * [PACA-Aula-08.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-08.pdf)
 
 * [PACA-AULA-09.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-09.pdf)
@@ -28,3 +30,4 @@
   - [Valor da produção da pecuária e aquicultura chega a R$ 122,4 bilhões em 2023](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/41352-valor-da-producao-da-pecuaria-e-aquicultura-chega-a-r-122-4-bilhoes-em-2023)
 
   - [Estimativa de setembro aponta safra recorde de 341,9 milhões de toneladas em 2025](https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/44766-estimativa-de-setembro-aponta-safra-recorde-de-341-9-milhoes-de-toneladas-em-2025)
+
