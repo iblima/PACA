@@ -17,6 +17,8 @@
 
 * [PACA-Aula-05.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-05.pdf)
 
+* [PACA-Aula-06.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-06.pdf)
+
 * [PACA-Aula-07 - Documentário Brasil Orgânico](https://www.youtube.com/watch?v=CT3YEbQ9GNE)
 
 * [PACA-Aula-08.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-08.pdf)
