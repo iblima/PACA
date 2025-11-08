@@ -19,6 +19,8 @@
 
 * [PACA-Aula-08.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-08.pdf)
 
+* [PACA-AULA-09.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-09.pdf)
+
 * [PACA-Aula-10.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-10.pdf)
 
 - PACA-AULA-11 - Leitura
