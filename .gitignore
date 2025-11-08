@@ -1,0 +1,11 @@
+# Arquivos Ignorados pelo Git
+
+## Arquivos Latex
+
+*.aux
+*.log
+*.nav
+*.out
+*.snm
+*synctex.gz
+
