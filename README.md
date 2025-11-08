@@ -1,5 +1,5 @@
 # Produção de Alimentos e Conservação Ambiental
-
+**Se encontar dificuldade, existe a sala no Telegram"
 ## 2 Trimestre
 
 ### Vídeos e Entrevistas Exibidos
@@ -16,6 +16,8 @@
 ## 3 Trimestre
 
 * [PACA-Aula-05.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-05.pdf)
+
+* [PACA-Aula-08.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-08.pdf)
 
 * [PACA-Aula-10.pdf](https://github.com/iblima/PACA/blob/main/PACA-Aula-10.pdf)
 
